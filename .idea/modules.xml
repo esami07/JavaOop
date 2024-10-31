@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Human/Human.iml" filepath="$PROJECT_DIR$/Human/Human.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaOop.iml" filepath="$PROJECT_DIR$/JavaOop.iml" />
+      <module fileurl="file://$PROJECT_DIR$/array_2d/array_2d.iml" filepath="$PROJECT_DIR$/array_2d/array_2d.iml" />
+      <module fileurl="file://$PROJECT_DIR$/array_java/array_java.iml" filepath="$PROJECT_DIR$/array_java/array_java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/array_list/array_list.iml" filepath="$PROJECT_DIR$/array_list/array_list.iml" />
+      <module fileurl="file://$PROJECT_DIR$/array_list2d/array_list2d.iml" filepath="$PROJECT_DIR$/array_list2d/array_list2d.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bla bla/bla bla.iml" filepath="$PROJECT_DIR$/bla bla/bla bla.iml" />
+      <module fileurl="file://$PROJECT_DIR$/carOop/carOop.iml" filepath="$PROJECT_DIR$/carOop/carOop.iml" />
+      <module fileurl="file://$PROJECT_DIR$/nested_loops/nested_loops.iml" filepath="$PROJECT_DIR$/nested_loops/nested_loops.iml" />
+      <module fileurl="file://$PROJECT_DIR$/random_number/random_number.iml" filepath="$PROJECT_DIR$/random_number/random_number.iml" />
+      <module fileurl="file://$PROJECT_DIR$/string_methods/string_methods.iml" filepath="$PROJECT_DIR$/string_methods/string_methods.iml" />
+      <module fileurl="file://$PROJECT_DIR$/wrapper_classes/wrapper_classes.iml" filepath="$PROJECT_DIR$/wrapper_classes/wrapper_classes.iml" />
+    </modules>
+  </component>
+</project>
